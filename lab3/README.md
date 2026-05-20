@@ -61,15 +61,15 @@ src/
 
 ### Головний екран
 
-![Головний екран](docs/screenshots/game-screen.png)
+<img src="docs/screenshots/game-screen.png" alt="Головний екран" width="300">
 
 ### Сторінка завдань
 
-![Сторінка завдань](docs/screenshots/tasks-screen.png)
+<img src="docs/screenshots/tasks-screen.png" alt="Сторінка завдань" width="300">
 
 ### Сторінка налаштувань
 
-![Сторінка налаштувань](docs/screenshots/settings-screen.png)
+<img src="docs/screenshots/settings-screen.png" alt="Сторінка налаштувань" width="300">
 
 ## Висновки
 
