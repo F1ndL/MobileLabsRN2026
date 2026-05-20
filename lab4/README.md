@@ -51,28 +51,28 @@
 - `FileSystem.deleteAsync` - видалення файлу або папки;
 - `FileSystem.getTotalDiskCapacityAsync` і `FileSystem.getFreeDiskStorageAsync` - статистика пам'яті.
 
+## Скріншоти
+
 ### Головний екран зі статистикою пам'яті
 
-![Головний екран зі статистикою пам'яті](docs/screenshot/1.png)
+<img src="docs/screenshot/1.png" alt="Головний екран" width="300">
 
-### Cтворення папки
+### Створення папки
 
-<figure>
-  <img src="docs/screenshot/2.png" width="32%" />
-  <img src="docs/screenshot/3.png" width="32%" />
-  <img src="docs/screenshot/4.png" width="32%" />
-  <figcaption>створення папки</figcaption>
-</figure>
+<p>
+  <img src="docs/screenshot/2.png" alt="Створення папки 1" width="32%">
+  <img src="docs/screenshot/3.png" alt="Створення папки 2" width="32%">
+  <img src="docs/screenshot/4.png" alt="Створення папки 3" width="32%">
+</p>
 
-### Cтворення та редагування текстового файлу
+### Створення та редагування текстового файлу
 
-<figure>
-  <img src="docs/screenshot/5.png" width="32%" />
-  <img src="docs/screenshot/6.png" width="32%" />
-  <img src="docs/screenshot/7.png" width="32%" />
-  <figcaption>створення та редагування текстового файлу</figcaption>
-</figure>
+<p>
+  <img src="docs/screenshot/5.png" alt="Редагування файлу 1" width="32%">
+  <img src="docs/screenshot/6.png" alt="Редагування файлу 2" width="32%">
+  <img src="docs/screenshot/7.png" alt="Редагування файлу 3" width="32%">
+</p>
 
 ### Перегляд інформації про файл
 
-![Перегляд інформації про файл](docs/screenshot/8.png)
+<img src="docs/screenshot/8.png" alt="Інформація про файл" width="300">
