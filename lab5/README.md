@@ -39,19 +39,19 @@ npm start
 
 ### Екран входу
 
-![Екран входу](docs/screenshots/login.png)
+<img src="docs/screenshots/login.png" alt="Екран входу" width="300">
 
 ### Каталог товарів
 
-![Каталог товарів](docs/screenshots/catalog.png)
+<img src="docs/screenshots/catalog.png" alt="Каталог товарів" width="300">
 
 ### Деталі товару
 
-![Деталі товару](docs/screenshots/details.png)
+<img src="docs/screenshots/details.png" alt="Деталі товару" width="300">
 
 ### Реєстрація
 
-![Реєстрація](docs/screenshots/register.png)
+<img src="docs/screenshots/register.png" alt="Реєстрація" width="300">
 
 ## Висновки та відповіді на контрольні запитання
 
