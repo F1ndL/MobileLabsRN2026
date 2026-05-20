@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Lab 5 Expo Router",
+    "slug": "lab5-expo-router",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "lab5",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Lab 3 Gesture Clicker",
+    "slug": "mobilelabsrn2026-lab3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#f6f2ea"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.mobilelabsrn2026.lab3"
+    }
+  }
+}

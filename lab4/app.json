@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Lab 4 File Manager",
+    "slug": "lab4-file-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.mobilelabs.lab4filemanager"
+    }
+  }
+}
