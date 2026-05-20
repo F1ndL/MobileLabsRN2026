@@ -59,19 +59,19 @@ src/
 
 ### Список новин
 
-![Список новин](docs/screenshots/news-screen.png)
+<img src="docs/screenshots/news-screen.png" alt="Список новин" width="300">
 
 ### Деталі новини
 
-![Деталі новини](docs/screenshots/details-screen.png)
+<img src="docs/screenshots/details-screen.png" alt="Деталі новини" width="300">
 
 ### Контакти
 
-![Контакти](docs/screenshots/contacts-screen.png)
+<img src="docs/screenshots/contacts-screen.png" alt="Контакти" width="300">
 
 ### Картка
 
-![Картка](docs/screenshots/card.png)
+<img src="docs/screenshots/card.png" alt="Картка" width="300">
 
 ## Контрольні запитання та висновки
 
